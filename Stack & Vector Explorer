@@ -1,0 +1,3 @@
+The most recently sold products pile up in a Stack, making it easy to see what flew off the shelves.
+Logs and top selling items are kept in Vectors, ready for the store wizards to analyze and sort. 
+Pointers, recursion, and modular functions keep all the magic running smoothly behind the scenes.

@@ -1,0 +1,2 @@
+Pending orders and suppliers float in Linked Lists, so the store can quickly add or remove them. 
+Customers line up in a Queue, and every shopper is served fairly, one by one, like magic.

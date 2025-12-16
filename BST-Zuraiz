@@ -1,0 +1,4 @@
+The Binary Search Tree is used to store products in a sorted manner.
+It allows efficient insertion, deletion and searching operations.
+Products can be organized based on product ID or price.
+This structure helps in generating sorted reports easily.

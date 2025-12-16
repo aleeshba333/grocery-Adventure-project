@@ -1,0 +1,4 @@
+The Queue data structure is used for order processing in the system.
+Orders are handled using the First In First Out (FIFO) principle.
+This ensures fair and systematic order handling.
+It helps manage pending and processed orders efficiently.

@@ -1,0 +1,4 @@
+This module manages product and supplier records in the system.
+It supports add, update, delete, and view operations.
+Data consistency and availability are maintained.
+It plays a key role in inventory and supplier coordination.

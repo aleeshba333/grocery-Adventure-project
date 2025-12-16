@@ -1,0 +1,4 @@
+The Hash Table is used to provide fast access to product and supplier data.
+Each record is stored using a unique key such as Product ID or Supplier ID.
+It enables efficient searching and duplicate checking in constant average time.
+This improves the overall performance of the system.
